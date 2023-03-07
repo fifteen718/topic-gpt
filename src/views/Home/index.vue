@@ -4,10 +4,13 @@
       TopicGPT - 百宝箱 🧰
     </div>
     <div class="home__body">
-      <RouterLink to="/regexp" class="home__body__card bg-blue">
+      <RouterLink to="/chat" class="home__body__card bg-blue">
+        ChatGPT
+      </RouterLink>
+      <RouterLink to="/regexp" class="home__body__card bg-green">
         正则查询
       </RouterLink>
-      <RouterLink to="/codereview" class="home__body__card bg-green">
+      <RouterLink to="/codereview" class="home__body__card bg-yellow">
         Code Review
       </RouterLink>
       <div class="home__body__coming-card bg-gray">
