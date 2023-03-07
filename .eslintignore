@@ -1,5 +1,0 @@
-build/*.js
-src/assets
-src/lib
-public
-dist
