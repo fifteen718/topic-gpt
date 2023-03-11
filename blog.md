@@ -84,6 +84,7 @@ https://github.com/fifteen718/topic-gpt
 ## 5 - AI Feature 
 > 从分析式AI到生成式AI的进化。
 ### 生成式AI（AIGC)
+![image](https://user-images.githubusercontent.com/15246253/224475513-6b5abd13-cb60-4c3d-a7ea-b16b2bc55eaf.png)
 
 ### AI发展阶段
 1. 助手阶段：AIGC将辅助人类进行内容生产。
