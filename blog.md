@@ -36,8 +36,8 @@
 ### ChatGPT背后的OpenAI
 在最新的OpenAI API中提供了几个模型，这些模型有各自的优缺点。
 
-| ****LATEST MODEL**** | ****DESCRIPTION**** | ****MAX REQUEST**** | ****TRAINING Data（数据集最新的截止时间）**** |
-| — | — | — | — |
+| LATEST MODEL | DESCRIPTION | MAX REQUEST | TRAINING Data（数据集最新的截止时间） |
+|--|--|--|--|
 | gpt-3.5-turbo | 最强力的GPT-3.5型号（特调版）。优化对话场景。并且比Text-Davinci-003模型的成本低10倍。将通过我们最新的模型迭代更新。 | 4,096 tokens | 截止到 2021年九月 |
 | gpt-3.5-turbo-0301 | 这个模型将不会接收更新，并将只支持三个月期限到2023年6月1日为止。 | 4,096 tokens | 截止到 2021年九月 |
 | text-davinci-003 | 该模型能够以更好的质量、更长的输出和更一致的指令跟踪完成任何语言任务，比Curie、Babbage或Ada模型更具优势。此外，该模型还支持在文本中插入完成语。 | 4,000 tokens | 截止到 2021年六月 |
